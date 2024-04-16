@@ -47,3 +47,4 @@
 - [khan academy](khanacademy.org)
 - [udemy](udemy.com)
 - [sololearn](sololearn.com)
+- [typing.com](https://www.typing.com/student/lessons)
